@@ -1,0 +1,6 @@
+name: caption_gen
+dependencies:
+  - python=3.7
+  - pytorch
+  - torchvision
+  - ipykernel
